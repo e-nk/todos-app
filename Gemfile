@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-ruby '2.7.4'
+ruby '2.7.4' #File.read('.ruby-version').strip
 
 # gem "rails"
 gem 'sinatra', '~> 3.0', '>= 3.0.5'
